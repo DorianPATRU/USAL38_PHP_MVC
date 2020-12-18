@@ -37,7 +37,7 @@ class Voiture
         $longueur = strlen($nouveauModele);
 
         if($longueur >= 2) {
-            $this->marque = $nouveauModele;
+            $this->modele = $nouveauModele;
         }
         else {
             throw new \Exception("Nom trop court !");
