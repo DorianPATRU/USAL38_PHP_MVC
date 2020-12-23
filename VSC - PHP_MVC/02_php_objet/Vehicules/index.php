@@ -24,7 +24,7 @@ $v2 = new Voiture();
 
 $v2->setMarque("Honda");
 
-$v2->setModele("2"); 
+$v2->setModele("Civic"); 
 
 var_export($v2);
 
