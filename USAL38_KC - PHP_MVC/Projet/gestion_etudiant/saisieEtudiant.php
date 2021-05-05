@@ -1,3 +1,7 @@
+<?php
+require_once ("verifAuth.php");
+?>
+
 <!DOCTYPE html>
 <html lang="en">
 
